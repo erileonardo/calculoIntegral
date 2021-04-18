@@ -1,5 +1,5 @@
 % Title         : Lamina 15 Funciones
-% Description   : Script para grafcar la funcion f_4(x)=2-v(4x-2)  ,Â¿0?R_f4?,Â¿1?R_(f4 )?
+% Description   : Script para grafcar la funcion f_4(x)=2-v(4x-2))  ,¿0?R_f4?,¿1?R_(f4 )?
 % Author        : Erika Amairani Leonardo Arce
 % Date          : 20210415
   
@@ -13,7 +13,7 @@ y=2-(sqrt((4*(x)-2)));
 plot (x,y);
 % Titulo
 title(Funcion "y=2-v(4x-2)");
-% Etiqueta de x
+% Etiqueta de  x
 xlabel("X");
-% Etiqueta de y 
+% Etiqueta de  y 
 ylabel ("Y")
